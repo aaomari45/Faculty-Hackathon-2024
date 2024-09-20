@@ -1,5 +1,6 @@
 # Faculty-Hackathon-2024
 Course Objective:
+
 •	Incorporate HPC into the digital forensics curriculum, to enable students to leverage advanced computing resources for cybersecurity tasks.
 
 •	Re-create the course to be accessible to students faculty and staff, supporting a diverse learning community across disciplines and departments.
